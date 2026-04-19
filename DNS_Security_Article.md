@@ -20,12 +20,6 @@ DNS is often compared to a **phonebook of the internet**. When a user enters a d
 
 ---
 
-## 🖥️ DNS Architecture Overview
-
-![DNS Architecture](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DNS_resolver_and_servers.svg/800px-DNS_resolver_and_servers.svg.png)
-
----
-
 ## Key Components of DNS  
 
 - **DNS Resolver** – Receives queries from users  
@@ -59,12 +53,6 @@ SOC teams analyze DNS logs to detect suspicious activity such as:
 - **DNS Tunneling** – Data is secretly transferred through DNS queries  
 - **DDoS Attacks using DNS Amplification**  
 - **Domain Generation Algorithms (DGA)** – Malware generates random domains  
-
----
-
-## 🛡️ DNS Security Threats Visualization
-
-![DNS Attack](https://upload.wikimedia.org/wikipedia/commons/3/3a/DNS_Spoofing.png)
 
 ---
 
