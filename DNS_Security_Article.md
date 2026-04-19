@@ -22,7 +22,7 @@ DNS is often compared to a **phonebook of the internet**. When a user enters a d
 
 ## 🖥️ DNS Architecture Overview
 
-![DNS Architecture](https://upload.wikimedia.org/wikipedia/commons/6/6b/DNS_resolver_and_servers.svg)
+![DNS Architecture](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DNS_resolver_and_servers.svg/800px-DNS_resolver_and_servers.svg.png)
 
 ---
 
@@ -64,7 +64,7 @@ SOC teams analyze DNS logs to detect suspicious activity such as:
 
 ## 🛡️ DNS Security Threats Visualization
 
-![DNS Attack Diagram](https://upload.wikimedia.org/wikipedia/commons/3/3a/DNS_Spoofing.png)
+![DNS Attack](https://upload.wikimedia.org/wikipedia/commons/3/3a/DNS_Spoofing.png)
 
 ---
 
